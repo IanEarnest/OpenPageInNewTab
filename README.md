@@ -1,6 +1,8 @@
 # OpenPageInNewTab
 Open page in new tab - chrome extension
+<br>
 Google Chrome Web Store page - https://chrome.google.com/webstore/detail/open-page-in-new-tab/emidlkkjhjkgjicfaincdbokbjohlaen
+<br>
 Blog- https://ianharcourtsmith.com/chrome-extension-development/
 
 Add a context menu item to load a new tab of the current page URL.
